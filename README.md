@@ -1,0 +1,9 @@
+##  House Price Prediction (Kaggle Competition)
+
+This project was part of the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition. The goal was to predict the final sale price of homes based on various features such as location, area, quality, and more.
+
+I built and evaluated different regression models including **Linear Regression** and **Random Forest Regressor**. I performed data preprocessing, feature engineering, and model evaluation using metrics like **Root Mean Squared Error (RMSE)** with log-transformed targets.
+
+ 
+ My best score on Kaggle's public leaderboard was **0.33151 (Log RMSE)** using a Linear Regression model.
+
